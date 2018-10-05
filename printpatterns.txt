@@ -1,0 +1,19 @@
+In this problem, you need to print the pattern of the following form containing the numbers 
+from 1 to n. 
+1<= n <= 920 (not 1000)
+
+For example: 
+n = 2			    2 2 2 
+			    2 1 2 
+			    2 2 2
+
+n = 4 
+			    4 4 4 4 4 4 4 
+                            4 3 3 3 3 3 4   
+                            4 3 2 2 2 3 4   
+                            4 3 2 1 2 3 4   
+                            4 3 2 2 2 3 4   
+                            4 3 3 3 3 3 4   
+                            4 4 4 4 4 4 4
+
+My solution doesn't work perfectly since it works only till 920.   
